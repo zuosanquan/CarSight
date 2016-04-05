@@ -1,0 +1,10 @@
+platform:ios,'9.2'
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'YYModel'
+pod 'RESideMenu'
+pod 'MJRefresh'
+pod 'KVNProgress'
+pod 'FMDB'
+pod 'PopMenu'
+

@@ -1,0 +1,32 @@
+//
+//  CarPrefixHeader.pch
+//  CrazyCar
+//
+//  Created by Edward on 16/2/29.
+//  Copyright © 2016年 Edward. All rights reserved.
+//
+
+#ifndef CarPrefixHeader_pch
+#define CarPrefixHeader_pch
+
+#define kDefaultHeadViewHeight 300
+#define kHotNewCellHeight 140
+#define kHotNewCellNormalHeight 80
+#define kHotNewCellSmallTitleFont 12
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "EBCar.h"
+#import "CarHeader.h"
+#import <MJRefresh.h>
+#import <AFNetworking.h>
+#import <UIImageView+WebCache.h>
+#import <UIImage+GIF.h>
+#import <KVNProgress.h>
+#import "UIScrollView+ScaleImage.h"
+#import "UIFont+Util.h"
+#import "UIColor+Util.h"
+#import "EBUIFactory.h"
+#import <UIButton+WebCache.h>
+#import <FMDB.h>
+#endif /* CarPrefixHeader_pch */
